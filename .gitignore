@@ -30,3 +30,6 @@ practical5_feast/iris_feature_repo/feature_repo/data/*.db
 mlflow.db
 mlartifacts/
 confusion_matrix_*.png
+test-results.xml
+.coverage
+.pytest_cache/
